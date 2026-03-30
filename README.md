@@ -1,5 +1,5 @@
-xtermjs-playground
-==================
+[xtermjs-playground](https://dirkarnez.github.io/xtermjs-playground)
+====================================================================
 
 ### Using
 - [xtermjs/xterm.js: A terminal for the web](https://github.com/xtermjs/xterm.js)
